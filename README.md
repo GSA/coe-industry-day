@@ -1,11 +1,11 @@
 # Centers of Excellence
 
-## Phase II - Industry Day and Reverse Industry Days
+## Phase 2 - Industry Day and Reverse Industry Days
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our Industry partners.
 * **What:** An opportunity for Government and Industry to share thoughts and learn from one another. We encourage you to not only attend our Industry Day and Reverse Industry Days, but also participate in this event through questions, comments, and recommendations, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues) using our [template](ISSUE_TEMPLATE.md).
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
 * **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018.
-* **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
+* **Why:** We are ready to start Phase 2, which will implement the recommendations that were developed in Phase 1.
 * **How:** Please register [for the Industry Day, here](https://goo.gl/forms/X65KAHS86gyeEM0S2), and [for the Reverse Industry Days, here](URL).
 
 ## A significant step forward
@@ -21,7 +21,7 @@ With a [clear mission](https://coe.gsa.gov/mission/) in mind, the CoEs will prov
 5. **[IT Infrastructure Optimization](https://coe.gsa.gov/centers-of-excellence/it-infrastructure/)**
 
 ## Where things stand
-With Phase I [well under way](https://coe.gsa.gov/updates/), the CoEs are now looking to implement a variety of the recommendations that have arisen through our [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and user-focused research. We are working hard to begin Phase II before the end of Fiscal Year 2018.
+With Phase 1 [well under way](https://coe.gsa.gov/updates/), the CoEs are now looking to implement a variety of the recommendations that have arisen through our [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and user-focused research. We are working hard to begin Phase 2 before the end of Fiscal Year 2018.
 
 # Thank you!
 We thank you in advance for your interest in IT modernization and our Industry Day!
