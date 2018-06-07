@@ -9,7 +9,7 @@
 * **How:** Please register [for the Industry Day, here](https://goo.gl/forms/X65KAHS86gyeEM0S2), and [for the Reverse Industry Days, here](URL).
 
 ## A significant step forward
-<img src="https://github.com/gsa/coe-industry-day/blob/master/assets/GSA-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/gsa/coe-industry-day/blob/master/assets/USDA-logo.png" width="75">
+<img src="https://github.com/gsa/coe-industry-day/blob/initial-commit/assets/GSA-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/USDA-logo.png" width="75">
 
 In 2017, the White House [Office of American Innovation](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-announces-white-house-office-american-innovation-oai/?utm_source=link) (OAI) [worked with CEOs from leading IT companies](https://www.whitehouse.gov/articles/american-technology-council-summit-modernize-government-services/) to identify [key areas](https://www.whitehouse.gov/wp-content/uploads/2018/03/Administration-2017-ST-Highlights.pdf) where the Government could gain maximum efficiency and savings through IT modernization. To accelerate the process, OAI centralized subject matter expertise, best practices, and access to the latest technology into the [CoEs](https://coe.gsa.gov/), housed within the [GSA](https://www.gsa.gov/)’s [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)'s (FAS) [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS). Our efforts started with [USDA](https://www.usda.gov/).
 
