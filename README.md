@@ -4,7 +4,7 @@
 
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our industry partners.
 
-* **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). We look forward to meeting our industry partners at the Industry Day, where we will share with you information on the recommendations generated from Phase I, as well as the Reverse Industry Days, where we want to hear from you how your organization's offerings can help us achieve our goals. Additionally, we encourage participation through questions, comments, and recommendations, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
+* **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). For our Industry Day, we'll be going into detail on the number and scope of our procurements, the proposed acquisition strategies, and provide updates on our progress. For our Reverse Industry Days, we're looking for a one-page fact sheet that focuses on how you'd address our needs, previous experience that talks to your capabilities, and how we can improve our ask -- we're not looking for any marketing information. Additionally, we encourage participation through questions, comments, and recommendations, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
 
@@ -12,7 +12,7 @@
 
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
-* **How:** To ensure we can include as many folks as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. For our Industry Day, we'll be going into detail on the number and scope of our procurements, the proposed acquisition strategies, and provide updates on our progress. For our Reverse Industry Days, we're looking for a one-page fact sheet that focuses on how you'd address our needs, previous experience that talks to your capabilities, and how we can improve our ask -- we're not looking for any marketing information. Please register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
+* **How:** To ensure we can include as many folks as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
     * June 27
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * June 28
