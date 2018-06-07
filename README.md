@@ -4,7 +4,7 @@
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our Industry partners.
 * **What:** An opportunity for Government and Industry to share thoughts and learn from one another. We encourage you to not only attend our Industry Day and Reverse Industry Days, but also participate in this event through questions, comments, and recommendations, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues) using our [template](ISSUE_TEMPLATE.md).
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
-* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018.
+* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 8:00am to 4:00pm on both days.
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 * **How:** Please register [for the Industry Day, here](https://goo.gl/forms/X65KAHS86gyeEM0S2), and [for the Reverse Industry Days, here](URL).
 
