@@ -8,7 +8,7 @@
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
 
-* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 8:00am to 4:00pm on both days.
+* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm on both days.
 
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
