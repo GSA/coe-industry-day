@@ -14,7 +14,7 @@
 
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
-* **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below.
+* **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day (which will also be [streamed live](https://www.youtube.com/watch?v=uqGwaEaVlHI)) and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below.
 
 * **Registration links:**
     * **June 27**
