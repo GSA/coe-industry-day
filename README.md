@@ -4,15 +4,15 @@
 
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our industry partners.
 
-* **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). For our Industry Day, we'll be going into detail on the number and scope of our procurements, the proposed acquisition strategies, and provide updates on our progress. For our Reverse Industry Days, we're looking for a one-page fact sheet that focuses on how you'd address our needs, previous experience that talks to your capabilities, and how we can improve our ask -- we're not looking for any marketing information. Additionally, we encourage participation through questions, comments, and recommendations, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
+* **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). For our Industry Day, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress. For our Reverse Industry Days, we're looking for industry partners to provide a one-page fact sheet related to your capabilities to provide a solution for the specific procurement/group you're meeting with, previous experience that is directly related to that procurement/group, and how we can improve our ask once we actually post our solicitation -- we're not looking for any marketing information. Additionally, we encourage participation through questions, comments, and recommendations prior to the event, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
 
-* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm - 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm on both days.
+* **When:** The Industry Day will be held on June 27, 2018, from 1:00pm to 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days.
 
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
-* **How:** To ensure we can include as many folks as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
+* **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
     * June 27
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * June 28
@@ -30,11 +30,11 @@
 
 <img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/USDA-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/gsa/coe-industry-day/blob/initial-commit/assets/GSA-logo.png" width="75">
 
-In 2017, the White House [Office of American Innovation](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-announces-white-house-office-american-innovation-oai/?utm_source=link) (OAI) [collaborated with CEOs from the largest IT companies in the U.S.](https://www.whitehouse.gov/articles/american-technology-council-summit-modernize-government-services/) to identify [key areas](https://www.whitehouse.gov/wp-content/uploads/2018/03/Administration-2017-ST-Highlights.pdf) where the Government could gain maximum efficiency and cost savings through IT modernization. It was decided to centralize subject matter expertise, best practices, and access to the latest technology from private industry into five distinct [CoEs](https://coe.gsa.gov/), housed within the [GSA](https://www.gsa.gov/)’s [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)'s (FAS) [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS). In April 2018, our efforts started with [USDA](https://www.usda.gov/).
+In 2017, the White House [Office of American Innovation](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-announces-white-house-office-american-innovation-oai/?utm_source=link) (OAI) [collaborated with CEOs from the largest IT companies in the U.S.](https://www.whitehouse.gov/articles/american-technology-council-summit-modernize-government-services/) to identify [key areas](https://www.whitehouse.gov/wp-content/uploads/2018/03/Administration-2017-ST-Highlights.pdf) where the government could gain maximum efficiency and cost savings through IT modernization. It was decided to centralize subject matter expertise, best practices, and access to the latest technology from private industry into five distinct [CoEs](https://coe.gsa.gov/), housed within the [GSA](https://www.gsa.gov/)’s [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)'s (FAS) [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS). We started our efforts in April 2018 with [USDA](https://www.usda.gov/).
 
 ## The Centers
 
-With a [clear mission](https://coe.gsa.gov/mission/) in mind, the CoEs will provide agencies with support in the following areas:
+With a [clear mission](https://coe.gsa.gov/mission/) in mind, the [CoEs](https://coe.gsa.gov/) will provide [USDA](https://www.usda.gov/) with support in the following areas:
 
 1. **[Cloud Adoption](https://coe.gsa.gov/centers-of-excellence/cloud-adoption/)**
 2. **[Contact Center](https://coe.gsa.gov/centers-of-excellence/contact-center/)**
@@ -44,7 +44,7 @@ With a [clear mission](https://coe.gsa.gov/mission/) in mind, the CoEs will prov
 
 ## Where things stand
 
-With Phase I [well under way](https://coe.gsa.gov/updates/), the CoEs are now looking to implement a variety of the recommendations that have arisen through our [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and user-focused research. We are working hard to begin Phase II before the end of Fiscal Year 2018.
+With Phase I [well under way](https://coe.gsa.gov/updates/), the [CoEs](https://coe.gsa.gov/) are now looking to implement a variety of the recommendations that have arisen through our [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and [user-focused research](https://playbook.cio.gov/). We are working hard to begin Phase II before the end of Fiscal Year 2018.
 
 # Thank you!
 
