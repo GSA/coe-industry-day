@@ -1,7 +1,5 @@
 # Centers of Excellence
 
-<img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/CoE-full-logo.png" height="75">
-
 ## Phase II - Industry Day and Reverse Industry Days
 
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our industry partners.
@@ -34,7 +32,7 @@
 
 ## A significant step forward
 
-<img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/USDA-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/CoE-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/gsa/coe-industry-day/blob/initial-commit/assets/GSA-logo.png" width="75">
+<img src="https://github.com/GSA/coe-industry-day/blob/initial-commit/assets/USDA-logo.png" width="75">&nbsp;&nbsp;&nbsp;<img src="https://github.com/gsa/coe-industry-day/blob/initial-commit/assets/GSA-logo.png" width="75">
 
 In 2017, the White House [Office of American Innovation](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-announces-white-house-office-american-innovation-oai/?utm_source=link) (OAI) [collaborated with CEOs from the largest IT companies in the U.S.](https://www.whitehouse.gov/articles/american-technology-council-summit-modernize-government-services/) to identify [key areas](https://www.whitehouse.gov/wp-content/uploads/2018/03/Administration-2017-ST-Highlights.pdf) where the government could gain maximum efficiency and cost savings through IT modernization. It was decided to centralize subject matter expertise, best practices, and access to the latest technology from private industry into five distinct [CoEs](https://coe.gsa.gov/), housed within the [GSA](https://www.gsa.gov/)’s [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)'s (FAS) [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS). We started our efforts in April 2018 with [USDA](https://www.usda.gov/).
 
