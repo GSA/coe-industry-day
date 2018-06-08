@@ -6,19 +6,21 @@
 
 * **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). For our Industry Day, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress. For our Reverse Industry Days, we're looking for industry partners to provide a one-page fact sheet related to your capabilities to provide a solution for the specific procurement/group you're meeting with, previous experience that is directly related to that procurement/group, and how we can improve our ask once we actually post our solicitation -- we're not looking for any marketing information. Additionally, we encourage participation through questions, comments, and recommendations prior to the event, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
 
-* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm).
+* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) (451 7th St SW, Washington, DC 20410) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
 * **When:** The Industry Day will be held on June 27, 2018, from 1:00pm to 3:00pm EDT with Reverse Industry Days to be held in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days.
 
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
-* **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
+* **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below.
+
+* **Registration links:**
     * **June 27**
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * **June 28**
         * [Data Analytics](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
         * [IT Infrastructure Optimization](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
-        * [Project Management Office](URL) - RM1010C
+        * [Project Management Office](https://calendar.google.com/calendar/selfsched?sstoken=UUVabjBzVllLczJ4fGRlZmF1bHR8ZGI1ZWU0ZDY3M2VkODUzMWQzN2E1NGJlZjY1ODc2ODk) - RM1010C
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
     * **June 29**
         * [Cloud Adoption](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
