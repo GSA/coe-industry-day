@@ -13,14 +13,14 @@
 * **Why:** We are ready to start Phase II, which will implement the recommendations that were developed in Phase I.
 
 * **How:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. You can register for the Industry Day and the Reverse Industry Days you're interested in using the links, below:
-    * *June 27*
+    * **June 27**
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
-    * *June 28*
+    * **June 28**
         * [Data Analytics](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
         * [IT Infrastructure Optimization](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
         * [Project Management Office](URL) - RM1010C
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
-    * *June 29*
+    * **June 29**
         * [Cloud Adoption](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
         * [Contact Center](https://calendar.google.com/calendar/selfsched?sstoken=UUk5V203R1lkT083fGRlZmF1bHR8YWI1OTZlNjRjZWFhNTE1NjU4OGE0MTY1YjQwYTU0MWI) - RM1010C
         * [Customer Experience](https://calendar.google.com/calendar/selfsched?sstoken=UUkzd3MzTEcwdTBTfGRlZmF1bHR8ZTViMGYwMTI5YjIwN2FiNDUyZWQ0MzMxZWJkM2VjZTg) - RM1010A
