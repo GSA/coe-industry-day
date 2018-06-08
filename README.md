@@ -4,7 +4,7 @@
 
 * **Who:** The [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) along with you, our industry partners.
 
-* **What:** An opportunity for government and industry to share thoughts and learn from one another (see [the agenda](assets/USDA-Phase-II-Agenda.pdf) for additional details). We encourage participation through questions, comments, and recommendations prior to the event, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
+* **What:** An opportunity for government and industry to share thoughts and learn from one another. We encourage participation through questions, comments, and recommendations prior to the event, which you can submit via the [Issues tab](https://github.com/oghaffari/coe-industry-day/issues).
     * For our **Industry Day**, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress.
     * For our **Reverse Industry Days**, we're looking for industry partners to provide a one-page fact sheet related to your capabilities to provide a solution for the specific procurement/group you're meeting with, previous experience that is directly related to that procurement/group, and how we can improve our ask once we actually post our solicitation -- _we're not looking for any marketing information_.
 
