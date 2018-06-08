@@ -20,12 +20,12 @@
     * **June 27**
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * **June 28**
-        * [Data Analytics](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
+        * [Data Analytics](https://calendar.google.com/calendar/selfsched?sstoken=UUFUMVFQNjg4eVp0fGRlZmF1bHR8MmYwODU4OWEzMTIxZWE0MjMyNGM0NmIzNDE5NDUyZTI) - RM1010D
         * [IT Infrastructure Optimization](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
         * [Project Management Office](https://calendar.google.com/calendar/selfsched?sstoken=UUVabjBzVllLczJ4fGRlZmF1bHR8ZGI1ZWU0ZDY3M2VkODUzMWQzN2E1NGJlZjY1ODc2ODk) - RM1010C
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
     * **June 29**
-        * [Cloud Adoption](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
+        * [Cloud Adoption](https://calendar.google.com/calendar/selfsched?sstoken=UUFVWkxyZ1QxV1pZfGRlZmF1bHR8NjY2MDBkZTFmNzhhNGViNjU3OGMyMWNhNmJlNTA4MjY) - RM1010B
         * [Contact Center](https://calendar.google.com/calendar/selfsched?sstoken=UUk5V203R1lkT083fGRlZmF1bHR8YWI1OTZlNjRjZWFhNTE1NjU4OGE0MTY1YjQwYTU0MWI) - RM1010C
         * [Customer Experience](https://calendar.google.com/calendar/selfsched?sstoken=UUkzd3MzTEcwdTBTfGRlZmF1bHR8ZTViMGYwMTI5YjIwN2FiNDUyZWQ0MzMxZWJkM2VjZTg) - RM1010A
         * [H2A Visas](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
