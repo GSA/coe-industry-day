@@ -8,7 +8,7 @@
     * At our **Industry Day**, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress.
     * At our **Reverse Industry Days**, industry partners should provide a one-page fact sheet on the capabilities you have to provide a solution for the specific procurement/group you're meeting with. The fact sheet can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
 
-* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/jg6HF56imRr) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
+* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/ucatYSZg6NF2) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
 * **When:** The Industry Day will be on June 27, 2018, from 1:00pm to 3:00pm EDT. The Reverse Industry Days will be in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days. You do not need to be available for the entirety of both Reverse Industry Days, only for the blocks you are participating in. Please show up at least 15 minutes early for the events you attend.
 
