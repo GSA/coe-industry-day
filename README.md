@@ -8,7 +8,7 @@
     * At our **Industry Day**, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress.
     * At our **Reverse Industry Days**, industry partners should provide a one-page fact sheet on the capabilities you have to provide a solution for the specific procurement/group you're meeting with. The fact sheet can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
 
-* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/5xuEZmuzcMA2) (451 7th St SW, Washington, DC 20410) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
+* **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/jg6HF56imRr) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
 * **When:** The Industry Day will be on June 27, 2018, from 1:00pm to 3:00pm EDT. The Reverse Industry Days will be in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days. You do not need to be available for the entirety of both Reverse Industry Days, only for the blocks you are participating in. Please show up at least 15 minutes early for the events you attend.
 
@@ -50,7 +50,7 @@ In accordance with [our mission](https://coe.gsa.gov/mission/), the [CoEs](https
 
 ## Where things stand
 
-In [Phase I](https://coe.gsa.gov/updates/)of our work with USDA, we put in place an approach built around [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and [user-focused research](https://playbook.cio.gov/). In Phase II, we hope to implement recommendations that arose in Phase I as a result of that approach. We hope to begin Phase II before the end of Fiscal Year 2018.
+In [Phase I](https://coe.gsa.gov/updates/) of our work with USDA, we put in place an approach built around [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and [user-focused research](https://playbook.cio.gov/). In Phase II, we hope to implement recommendations that arose in Phase I as a result of that approach. We hope to begin Phase II before the end of Fiscal Year 2018.
 
 # Thank you!
 
