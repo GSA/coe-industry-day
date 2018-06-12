@@ -19,11 +19,11 @@
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * **June 28**
         * Data Analytics - RM1010D _(fully booked)_
-        * IT Infrastructure Optimization - RM1010B _(fully booked)_
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked)_
         * Project Management Office - RM1010C _(fully booked)_
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
     * **June 29**
-        * Cloud Adoption - RM1010B _(fully booked)_
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked)_
         * Contact Center - RM1010C _(fully booked)_
         * Customer Experience - RM1010A _(fully booked)_
         * [H2A Visas](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
