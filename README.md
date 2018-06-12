@@ -20,7 +20,7 @@
     * **June 28**
         * Data Analytics - RM1010D _(fully booked)_
         * IT Infrastructure Optimization - RM1010B _(fully booked)_
-        * [Project Management Office](https://calendar.google.com/calendar/selfsched?sstoken=UUVabjBzVllLczJ4fGRlZmF1bHR8ZGI1ZWU0ZDY3M2VkODUzMWQzN2E1NGJlZjY1ODc2ODk) - RM1010C
+        * Project Management Office - RM1010C _(fully booked)_
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
     * **June 29**
         * Cloud Adoption - RM1010B _(fully booked)_
