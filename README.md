@@ -18,8 +18,8 @@
     * **June 27**
         * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
     * **June 28**
-        * Data Analytics - RM1010D _(fully booked)_
         * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked)_
+        * Data Analytics - RM1010D _(fully booked)_
         * Project Management Office - RM1010C _(fully booked)_
         * [Voice of the Customer](https://calendar.google.com/calendar/selfsched?sstoken=UUVQZl84XzFHTkJNfGRlZmF1bHR8N2ZiMzM0NDk3NmU0ZGJmNWNiMWY2NGE3NTI2NzE5YTk) - RM1010A
     * **June 29**
