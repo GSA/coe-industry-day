@@ -16,7 +16,7 @@
 
 * **How to register:** You can register for the Industry Day and the specific Reverse Industry Days you're interested in here:
     * **June 27**
-        * [Industry Day](https://goo.gl/forms/X65KAHS86gyeEM0S2)
+        * Industry Day - GSA NCR Auditorium _(fully booked)_
     * **June 28**
         * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked)_
         * Data Analytics - RM1010D _(fully booked)_
