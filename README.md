@@ -6,7 +6,7 @@
 
 * **What:** An opportunity for government and industry to share ideas and learn from one another. We encourage participation through questions, comments, and recommendations prior to the event, which you can submit as [Issues](https://github.com/oghaffari/coe-industry-day/issues) in this repository.
     * At our **Industry Day**, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress.
-    * At our **Reverse Industry Days**, industry partners should provide a one-page fact sheet on the capabilities you have to provide a solution for the specific procurement/group you're meeting with. The fact sheet can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
+    * At our **Reverse Industry Days**, industry partners should provide a one-page fact sheet on the capabilities you have to provide a solution for [the specific procurement/group](assets/CoE-Requirements.pdf) you're meeting with. The fact sheet can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/ucatYSZg6NF2) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
@@ -28,7 +28,7 @@
         * Customer Experience - RM1010A _(fully booked)_
         * [H2A Visas](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
 
-* **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days.
+* **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
 
 * **If you cannot attend:** Industry Day will be [streamed live](https://www.youtube.com/watch?v=uqGwaEaVlHI).
 
