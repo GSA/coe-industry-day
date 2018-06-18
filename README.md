@@ -18,7 +18,7 @@
     * **June 27**
         * Industry Day - GSA NCR Auditorium _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Industry%20Day%20attendance">contact us</a>)_
     * **June 28**
-        * [Cloud Adoption/IT Infrastructure Optimization](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Cloud%20Adoption%20IT%20Optimization%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
         * Data Analytics - RM1010D _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Data%20Analytics%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
         * Project Management Office - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=PMO%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
         * Voice of the Customer - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=VOC%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
