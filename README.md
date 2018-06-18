@@ -16,16 +16,16 @@
 
 * **How to register:** You can register for the Industry Day and the specific Reverse Industry Days you're interested in here:
     * **June 27**
-        * Industry Day - GSA NCR Auditorium _(fully booked)_
+        * Industry Day - GSA NCR Auditorium _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
     * **June 28**
         * [Cloud Adoption/IT Infrastructure Optimization](https://calendar.google.com/calendar/selfsched?sstoken=UU9nc3pjU3ZDQXNZfGRlZmF1bHR8NDI2YjNlMDM0OWVlYTZlYjhlMDk4ZWQ5MGM4ZTZiYjA) - RM1010B
-        * Data Analytics - RM1010D _(fully booked)_
-        * Project Management Office - RM1010C _(fully booked)_
-        * Voice of the Customer - RM1010A _(fully booked)_
+        * Data Analytics - RM1010D _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
+        * Project Management Office - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
+        * Voice of the Customer - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
     * **June 29**
-        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked)_
-        * Contact Center - RM1010C _(fully booked)_
-        * Customer Experience - RM1010A _(fully booked)_
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
+        * Contact Center - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
+        * Customer Experience - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov">contact us</a>)_
         * [H2A Visa Portal Support](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
 
 * **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
