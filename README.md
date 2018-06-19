@@ -10,7 +10,7 @@
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/ucatYSZg6NF2) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
-* **When:** The Industry Day will be on June 27, 2018, from 1:00pm to 3:00pm EDT. The Reverse Industry Days will be in pre-reserved 30-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days. You do not need to be available for the entirety of both Reverse Industry Days, only for the blocks you are participating in. Please show up at least 15 minutes early for the events you attend.
+* **When:** The Industry Day will be on June 27, 2018, from 1:00pm to 3:00pm EDT. The Reverse Industry Days will be in pre-reserved 25-minute blocks on June 28 and June 29, 2018, from 9:00am to 5:00pm EDT on both days. You do not need to be available for the entirety of both Reverse Industry Days, only for the blocks you are participating in. Please show up at least 15 minutes early for the events you attend.
 
 * **Why:** We are ready to start Phase II, in which we will implement recommendations developed in Phase I.
 
