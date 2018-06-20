@@ -26,7 +26,7 @@
         * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Cloud%20Adoption%20IT%20Optimization%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
         * Contact Center - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Contact%20Center%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
         * Customer Experience - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Customer%20Experience%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * [H2A Visa Portal Support](https://calendar.google.com/calendar/selfsched?sstoken=UUFQdGRnNzdZNHZffGRlZmF1bHR8ODkyN2Q1ZTFmNmRkNzZiNWIyOTg5ODA3ODlmMzUzNGY) - RM1010D
+        * H2A Visa Portal Support - RM1010D _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=H2A%20Visa%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
 
 * **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
 
