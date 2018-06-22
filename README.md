@@ -6,7 +6,7 @@
 
 * **What:** An opportunity for government and industry to share ideas and learn from one another. We encourage participation through questions, comments, and recommendations prior to the event, which you can submit as [Issues](https://github.com/gsa/coe-industry-day/issues) in this repository.
     * At our **Industry Day**, we'll discuss the number and scope of our anticipated procurements, the proposed acquisition strategies, and provide updates on our progress.
-    * At our **Reverse Industry Days**, industry partners should provide a one-page fact sheet on the capabilities you have to provide a solution for [the specific procurement/group](assets/CoE-Requirements.pdf) you're meeting with. The fact sheet can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
+    * At our **Reverse Industry Days**, industry partners should provide [a one-page fact sheet](https://goo.gl/forms/bSySmePLyr0CCSMa2) on the capabilities you have to provide a solution for [the specific procurement/group](assets/CoE-Requirements.pdf) you're meeting with. The [fact sheet](https://goo.gl/forms/bSySmePLyr0CCSMa2) can address your previous experience that is directly related to that procurement/group, and recommend ways to improve what we ask for in the solicitation we end up posting -- _we're not looking for any marketing information_.
 
 * **Where:** Industry Day will be held at [GSA NCR Auditorium](https://goo.gl/maps/ucatYSZg6NF2) (7th and D St SW, Washington, DC 20410 -- the entrance for the public is on D St) with the Reverse Industry Days taking place on the first floor at various rooms in the [GSA Central Office](https://goo.gl/maps/TvCrGn41Vgm) (1800 F St NW, Washington, DC 20405).
 
@@ -16,17 +16,17 @@
 
 * **How to register:** You can register for the Industry Day and the specific Reverse Industry Days you're interested in here:
     * **June 27**
-        * Industry Day - GSA NCR Auditorium _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Industry%20Day%20attendance">contact us</a>)_
+        * Industry Day - GSA NCR Auditorium _(both the event and wait list are fully booked, please participate through the [live stream](https://www.youtube.com/watch?v=uqGwaEaVlHI))_
     * **June 28**
-        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Cloud%20Adoption%20IT%20Optimization%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * Data Analytics - RM1010D _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Data%20Analytics%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * Project Management Office - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=PMO%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * Voice of the Customer - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=VOC%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * Data Analytics - RM1010D _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * Project Management Office - RM1010C _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * Voice of the Customer - RM1010A _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
     * **June 29**
-        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Cloud%20Adoption%20IT%20Optimization%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * Contact Center - RM1010C _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Contact%20Center%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * Customer Experience - RM1010A _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=Customer%20Experience%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
-        * H2A Visa Portal Support - RM1010D _(fully booked - if you'd like to attend, please <a href="mailto:omid.ghaffari-tabrizi@gsa.gov?subject=H2A%20Visa%20Reverse%20Industry%20Day%20attendance">contact us</a>)_
+        * Cloud Adoption/IT Infrastructure Optimization - RM1010B _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * Contact Center - RM1010C _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * Customer Experience - RM1010A _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * H2A Visa Portal Support - RM1010D _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
 
 * **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
 
