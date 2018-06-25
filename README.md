@@ -16,17 +16,24 @@
 
 * **How to register:** You can register for the Industry Day and the specific Reverse Industry Days you're interested in here:
     * **June 27**
-        * Industry Day - GSA NCR Auditorium _(both the event and wait list are fully booked, please participate through the [live stream](https://www.youtube.com/watch?v=uqGwaEaVlHI))_
+        * _Note: Both the event and wait list are fully booked, please participate through the [live stream](https://www.youtube.com/watch?v=uqGwaEaVlHI)_
+        * Industry Day - GSA NCR Auditorium
     * **June 28**
-        * Cloud Adoption/IT Infrastructure Optimization - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * Data Analytics - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * Project Management Office - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * Voice of the Customer - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * _Note: All the events and wait lists are fully booked, please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2)_
+        * Cloud Adoption/IT Infrastructure Optimization (x2)
+        * Contact Center
+        * Customer Experience
+        * Data Analytics
+        * Project Management Office
+        * Voice of the Customer (x2)
     * **June 29**
-        * Cloud Adoption/IT Infrastructure Optimization - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * Contact Center - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * Customer Experience - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
-        * H2A Visa Portal Support - _(both the list and wait list are fully booked - please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2))_
+        * _Note: All the events and wait lists are fully booked, please provide any information you'd like to share through our [one-page fact sheet form](https://goo.gl/forms/bSySmePLyr0CCSMa2)_
+        * Cloud Adoption/IT Infrastructure Optimization
+        * Contact Center
+        * Customer Experience (x2)
+        * Data Analytics
+        * H2A Visa Portal Support
+        * Project Management Office
 
 * **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
 
