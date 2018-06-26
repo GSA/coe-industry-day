@@ -32,7 +32,6 @@
         * Contact Center
         * Customer Experience (x2)
         * Data Analytics
-        * H2A Visa Portal Support
         * Project Management Office
 
 * **Rules for attendance:** To ensure we can include as many people as possible, please limit your attendance to no more than two individuals from your organization for both the Industry Day and Reverse Industry Days. Please review [our requirements document](assets/CoE-Requirements.pdf) prior to attending.
