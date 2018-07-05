@@ -6,16 +6,15 @@ _Please provide information about your job/role in the acquistion process as wel
 * Title/Role
 * Organization
 
-## What event(s) would you like to discuss?
-_Please indicate the the event(s) you are asking or commenting about._
-* Industry Day
-* Cloud Adoption
+## What procurement(s) would you like to discuss?
+_Please indicate the the procurement(s) you are asking or commenting about._
+* Cloud Adoption/IT Infrastructure Optimization
+* CoE Project Management Office (PMO)
 * Contact Center
-* Customer Experience
-* Data Analytics
-* H2A Visas
-* IT Infrastructure Optimization
-* Project Management Office
+* Customer Experience Collaboration Solution
+* Customer Experience PMO
+* Data Analytics Capacity Building
+* Data Visualization and Analytics
 * Voice of the Customer
 
 ## Your questions or thoughts
