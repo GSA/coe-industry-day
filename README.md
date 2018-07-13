@@ -6,7 +6,7 @@ On June 27-29, 2018, the [Centers of Excellence](https://coe.gsa.gov/) (CoE) tea
 
 During these three days, the government and industry exchange ideas related to [potential upcoming procurements](assets/CoE-Requirements.pdf) in Phase II of our effort. Phase II's focus is on implementing the recommendations that were developed in Phase I. Though the events have passed, we are still looking for feedback, which you can submit as [Issues](https://github.com/gsa/coe-industry-day/issues) in this repository.
 
-For more detailed information, you can review a [recording of the event](https://www.youtube.com/watch?v=uqGwaEaVlHI) as well as [the slides that were presented](assets/CoE-Industry-Day-Slides.pdf) during that event.
+For more detailed information, you can review a [recording of the event](https://www.youtube.com/watch?v=uqGwaEaVlHI) as well as [the slides that were presented](assets/CoE-Industry-Day-Slides.pdf) during that event. You can also view the vendors that participated in our Industry Day and our Reverse Industry Day.
 
 ## A significant step forward
 
