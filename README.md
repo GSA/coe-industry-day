@@ -1,9 +1,5 @@
 # Centers of Excellence
 
-## Solicitation status
-
-Solicitations have been posted on [eBuy](https://www.gsa.gov/tools/supply-procurement-etools/ebuy).
-
 ## Phase II - Industry Day and Reverse Industry Days
 
 On June 27-29, 2018, the [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) held an Industry Day (June 27) and Reverse Industry Days (June 28 and 29).
@@ -30,7 +26,7 @@ In accordance with [our mission](https://coe.gsa.gov/mission/), the [CoEs](https
 
 ## Where things stand
 
-In [Phase I](https://coe.gsa.gov/updates/) of our work with USDA, we put in place an approach built around [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and [user-focused research](https://playbook.cio.gov/). In Phase II, we hope to implement recommendations that arose in Phase I as a result of that approach. We hope to begin Phase II before the end of Fiscal Year 2018.
+In [Phase I](https://coe.gsa.gov/updates/) of our work with USDA, we put in place an approach built around [human-centered design](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf) and [user-focused research](https://playbook.cio.gov/). In Phase II, we will implement recommendations that arose in Phase I as a result of that approach.
 
 # Thank you!
 
