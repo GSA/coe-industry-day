@@ -1,5 +1,9 @@
 # Centers of Excellence
 
+## This repository is closed
+
+We are no longer taking questions about the procurements on this repository.
+
 ## Phase II - Industry Day and Reverse Industry Days
 
 On June 27-29, 2018, the [Centers of Excellence](https://coe.gsa.gov/) (CoE) teams from the [General Services Administration](https://www.gsa.gov/) (GSA) and the [U.S. Department of Agriculture](https://www.usda.gov/) (USDA) held an Industry Day (June 27) and Reverse Industry Days (June 28 and 29).
